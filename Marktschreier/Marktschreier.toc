@@ -1,8 +1,8 @@
-## Author: Telkar (Rising Gods)
 ## Interface: 30300
-## Title: Marktschreier (1.1)
-## Version: 1.1
-## Notes: Gibt eine bearbeitbare Nachricht alle x Min. im World Chat wieder.
+## Title: Marktschreier (1.2)
+## Notes: Sends a customizable mesage to im World Chat every x min.
+## Notes-deDE: Sendet eine bearbeitbare Nachricht alle x Min. zum World Chat
+## Author: Telkar (Rising Gods)
 ## SavedVariables: Marktschreier_DB
 ## OptionalDeps: Ace3, DBM-Core
 ## DefaultState: Disabled
