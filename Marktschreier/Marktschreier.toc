@@ -1,6 +1,6 @@
 ## Author: Telkar (Rising Gods)
 ## Interface: 30300
-## Title: Marktschreier
+## Title: Marktschreier (1.1)
 ## Version: 1.1
 ## Notes: Gibt eine bearbeitbare Nachricht alle x Min. im World Chat wieder.
 ## SavedVariables: Marktschreier_DB

@@ -34,7 +34,7 @@ local default_options = {
 			["watchString"] = "ðesert",
 			["timeInterval"] = 3,
 		},
-		["message"] = "{rt2} Ulduar 25 von Ðesert/Wulpho/Sheherazade jeden DO 19:00 am FP {rt2} \124cffff8000\124Hitem:45038:0:0:0:0:0:0:0:80\124h[Fragment von Val'anyr]\124h\124r nach Anwesenheitsliste {rt2} Enhanced Roll auf \124cffa335ee\124Hitem:45693:0:0:0:0:0:0:0:0\124h[Mimirons Kopf]\124h\124r\n\n",
+		["message"] = "{rt2} Ulduar 25 von Ðesert/Wulfo jeden DO 19:00 am FP {rt2} \124cffff8000\124Hitem:45038:0:0:0:0:0:0:0:80\124h[Fragment von Val'anyr]\124h\124r nach Anwesenheitsliste {rt2} Enhanced Roll auf \124cffa335ee\124Hitem:45693:0:0:0:0:0:0:0:0\124h[Mimirons Kopf]\124h\124r\n\n",
 	},
 }
 
